@@ -1,0 +1,8 @@
+__pycache__
+*.sw*
+media
+images
+notes
+venv
+db.sqlite3
+settings.py
