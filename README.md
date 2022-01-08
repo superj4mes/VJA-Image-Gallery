@@ -2,7 +2,7 @@
 
 ![vja-imagegallery](/docs/img/vja-image-gallery-header.png)
 
-Student Django project. Made in collaboration with [AndymcCone](https://github.com/AndymcCone) and [superj4mes](https://github.com/superj4mes). Hosted @Azure, [Link to site](http://vja-imagegallery.eastus.cloudapp.azure.com/)
+Student Django project. Made in collaboration with [AndymcCone](https://github.com/AndymcCone) and [VtotheK](https://github.com/VtotheK). Hosted @Azure, [Link to site](http://vja-imagegallery.eastus.cloudapp.azure.com/)
 
 ## Features
 
